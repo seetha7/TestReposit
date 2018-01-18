@@ -18,6 +18,7 @@ int main()
     cout<<"4"<<endl;
     cout<<"5"<<endl;
     cout<<"6"<<endl;
+    cout<<"7"<<endl;
     cout << "Hello world!" << endl;
     return 0;
 }
